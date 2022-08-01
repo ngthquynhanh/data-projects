@@ -13,4 +13,3 @@ There are 2 branches: <br>
     - Applied LSTM and MLR (Multiple Linear Regression) to predict the price. 
     - Results are not good
     
-There are a lot of mistakes from these projects so 

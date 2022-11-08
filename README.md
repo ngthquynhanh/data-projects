@@ -9,7 +9,4 @@ There are 2 branches: <br>
   - Results from the local and global profile are good. 
  - Twitter Sentiment Analysis to predict Bitcoin price <br> 
     - Crawled data from Twitter using Tweepy library
-    - Using TextBlob for sentimental analysis
-    - Applied LSTM and MLR (Multiple Linear Regression) to predict the price. 
-    - Results are not good
     
